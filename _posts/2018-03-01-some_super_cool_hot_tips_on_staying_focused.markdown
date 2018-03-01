@@ -12,7 +12,7 @@ Hey friends! So my first post was a lot more formal than this one, and I'd rathe
 ![](https://www.vitalchoice.com/files/9-28-17-burnout-lg.jpg)
 > *She doesn't look too happy.*
 
-**If you're working on Fullstack Web Development part-time (like me) while working full-time (also me) here are some tips to stay on track:**
+# **If you're working on Fullstack Web Development part-time (like me) while working full-time (also me) here are some tips to stay on track:**
 
 1. ***Set a schedule*** - I can't stress this enough. Figure out how many hours a day you can dedicate to coding and stick to that as much as you can. Can you use your lunch break? Do you have some down time at work? A break? A couple of free hours after work? Figure out how many hours you can dedicate per day and write all of it down. Then, try to stick to this figure as much as possible. For me it's about 20/25 hours a week, or ideally 4 hours a day M-F plus whatever I can do on weekends.  A lot of the time it works out closer to 16 hours M-F, and about 4+ hours on the weekend. It's not exact, but I try to get as close to that as possible. Managed to do more than you scheduled? Even better. 
 
