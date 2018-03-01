@@ -10,7 +10,7 @@ permalink:  some_super_cool_hot_tips_on_staying_focused
 Hey friends! So my first post was a lot more formal than this one, and I'd rather be a bit more casual with my writing style. Ok. So. Anywho. Let me share some non-technical tips with you on how to stay focused on the course when you have a lot on your plate. Maybe you're juggling a full-time job, a weekend job, school, etc., and are trying to figure out how to make it all work. No? Just me? Well, if anyone is as extra as me, these are some things that have helped me make some progress with the curriculum. Jus trying to help you not end up like this lady:
 
 ![](https://www.vitalchoice.com/files/9-28-17-burnout-lg.jpg)
-<br>*She doesn't look too happy.*
+> *She doesn't look too happy.*
 
 **If you're working on Fullstack Web Development part-time (like me) while working full-time (also me) here are some tips to stay on track:**
 
