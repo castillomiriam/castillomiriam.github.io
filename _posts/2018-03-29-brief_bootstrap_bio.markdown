@@ -35,8 +35,8 @@ As stated above, bootstrap is an HTML, CSS and JS framework for developing respo
 * Lack of individuality, non-content driven media      queries (break points are made for you)
 * Heavier than necessary (more code than needed)
 
-[Get Bootstrap] (http://www.getbootstrap.com)
-[Github Link] (http://www.github.com/twbs/bootstrap)
+[Get Bootstrap](http://www.getbootstrap.com)
+[Github Link](http://www.github.com/twbs/bootstrap)
 
 **Download Types (There's Three):**
 * Compiled and minified css, javascript, and fonts
@@ -44,8 +44,8 @@ As stated above, bootstrap is an HTML, CSS and JS framework for developing respo
 * Bootstrap ported from less to sass for easy inclusion in rails, compass, or sass-only projects.
 
 **CDN Usage (Links From CDNS):**
-[CDN Link 1] (http://www.bootstrapcdn.com)
-[CDN Link 2] (http://www.cdnjs.com/libraries/twitter-bootstrap)
+[CDN Link 1](http://www.bootstrapcdn.com)
+[CDN Link 2](http://www.cdnjs.com/libraries/twitter-bootstrap)
 
 **Folder Structure:**
 * There are three folders: css, js, fonts + all the files inside this folder.
