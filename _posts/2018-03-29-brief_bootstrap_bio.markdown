@@ -1,14 +1,11 @@
 ---
 layout: post
 title:      "Brief Bootstrap Bio "
-date:       2018-03-29 05:31:43 +0000
+date:       2018-03-29 01:31:44 -0400
 permalink:  brief_bootstrap_bio
 ---
 
-![Bootstrap](https://getbootstrap.com/assets/img/bootstrap-stack.png)
-
-
-
+![Bootstrap](http://www.unixstickers.com/image/cache/data/stickers/bootstrap/bootstrap.sh-340x340.png)
 
 *Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first project on the web.*
 
