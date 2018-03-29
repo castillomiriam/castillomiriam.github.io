@@ -28,8 +28,8 @@ As stated above, bootstrap is an HTML, CSS and JS framework for developing respo
 **+**
 * Responsive, features, flexible styling.
 * Popular
-* Open Source (github)
-* Build Quickly, save time 
+* Open Source (Github)
+* Build quickly, save time 
 
 **–**
 * Lack of individuality, non-content driven media      queries (break points are made for you)
@@ -68,7 +68,7 @@ my-site-project/
 
 
 **Bootstrap Grid system**
-*Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. *
+* Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. 
 
 **Containers**
 * Container classes are used to wrap your content to center it. you have a choice of fixed width or fluid (stretches across the whole screen.) 
