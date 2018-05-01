@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ya'll gonna do a learn, a learn, and another learn today. "
-date:       2018-05-01 04:07:34 +0000
+date:       2018-05-01 00:07:35 -0400
 permalink:  yall_gonna_do_a_learn_a_learn_and_another_learn_today
 ---
 
@@ -58,6 +58,6 @@ The last thing is so the "and ___ " displays correctly. So the last word is basi
 
 ....Get it? Kind of? Re-read it if needed. It took me a while. 
 
-Initially, my friend showed me how he solved this lab using conniption statements (something I don't kniow) and ternary operators (something I do know!), but in his own words: " I dont know if you want to dive down those rabbit holes just yet". (he's right). Maybe once I get to that point I can come back and explain his simpler, more complex solution. For now, this works perfectly. My lab is passing and I can move forward. Hope you enjoyed reading this! 
+Initially, my friend showed me how he solved this lab using conniption statements (something I don't kniow) and ternary operators (something I do know!), but in his own words: " I dont know if you want to dive down those rabbit holes just yet" (he's right). Maybe once I get to that point I can come back and explain his simpler, more complex solution. For now, this works perfectly. My lab is passing and I can move forward. Hope you enjoyed reading this! 
 
 
